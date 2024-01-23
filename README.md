@@ -1,4 +1,4 @@
-# BostonHousePricing
+# BostonHousePricing with docker and Flask
 
 ### Software and Tools Requirements
 
